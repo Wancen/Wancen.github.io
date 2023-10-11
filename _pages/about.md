@@ -23,3 +23,13 @@ My research interests focus on developing efficient statistical learning methods
 5. Enrichment analysis
 6. Machine learning
 7. Deep learning
+
+
+## &#x1F4E3; Latest News
+<div style="text-align:justify">
+{% assign newsItems = site.data.news | sort: 'date' | reverse %}
+{% for news in newsItems limit:5 %}
+<p>{{ news.date | date: "%Y-%m-%d" }}: {% assign titleParts = news.title | split: '**' %}{{ titleParts[0] }}<strong>{{ titleParts[1] }}</strong>{{ titleParts[2] }}</p>
+{% endfor %}
+</div>
+For more news, please visit the [News](/news/) page.
