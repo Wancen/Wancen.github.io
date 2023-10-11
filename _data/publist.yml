@@ -1,0 +1,43 @@
+- title: "Machine learning based methods for predicting guide RNA effects on cell fitness and gene 
+expression in CRISPR epigenomic experiments"
+  image:
+  authors:  Wancen Mu, Tianyou Luo, 
+  highlight: 0
+
+- title: "The tidyomics ecosystem: Enhancing omic data analyses"
+  image:
+  authors:  William J Hutchison,  Timothy J Keyes,  Helena L Crowell,  Charlotte Soneson,  Wancen Mu, Ji-Eun Park,  Eric S Davis,  Abdullah A Nahid,  Ming Tang,  Victor Yuan,  Pierre-Paul Axisa,  Jonathan W Kitt,  Chi-Lam Poon,  Noriaki Sato,  Miha Kosmac,  Jacques Serizay,  Raphael Gottardo,  Martin Morgan,  Stuart Lee, Michael Lawrence,  Stephanie C Hicks,  Garry P Nolan,  Kara L Davis,  Anthony T Papenfuss,  Michael I Love,  Stefano Mangiola
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2023.09.10.557072v2
+    display: bioRxiv
+  highlight: 0
+
+- title: "Next-generation sequencing (NGS) in metastatic colorectal cancer (mCRC): novel mutated 
+genes and their effect on response to therapy"
+  image: 
+  authors: Federico, Wancen Mu
+  link:
+    url: https://www.biorxiv.org/content/10.1101/2023.09.10.557072v2
+    display: Journal of clinical oncology
+  highlight: 0
+
+- title: "Flexible generation of genomic features sets for null hypothesis testing 
+with bootRanges"
+  image: bootRanges.jpeg
+  authors:  Wancen Mu
+  description: Enrichment analysis is a widely utilized technique in genomic analysis that aims to determine if there is a statistically significant association between two sets of genomic features. To conduct this type of hypothesis testing, an appropriate null model is typically required. However, the null distribution that is commonly used can be overly simplistic and may result in inaccurate conclusions. bootRanges provides fast functions for generation of block bootstrapped genomic ranges representing the null hypothesis in enrichment analysis. As part of a modular workflow, bootRanges offers greater flexibility for computing various test statistics leveraging other Bioconductor packages. We show that shuffling or permutation schemes may result in overly narrow test statistic null distributions and over-estimation of statistical significance, while creating new range sets with a block bootstrap preserves local genomic correlation structure and generates more reliable null distributions. It can also be used in more complex analyses, such as accessing correlations between cis-regulatory elements (CREs) and genes across cell types or providing optimized thresholds, e.g. log fold change (logFC) from differential analysis.
+  link:
+    url: https://academic.oup.com/bioinformatics/article/39/5/btad190/7115835
+    display: Bioinformatics 2023
+  highlight: 1
+
+- title: "Airpart: interpretable statistical models for analyzing 
+allelic imbalance in single-cell datasets"
+  image: framework_new.jpg
+  authors: Wancen MU
+  description: Allelic expression analysis aids in detection of cis-regulatory mechanisms of genetic variation, which produce allelic imbalance (AI) in heterozygotes. Measuring AI in bulk data lacking time or spatial resolution has the limitation that cell-type-specific (CTS), spatial- or time-dependent AI signals may be dampened or not detected. We introduce a statistical method airpart for identifying differential CTS AI from single-cell RNA-sequencing data, or dynamics AI from other spatially or time-resolved datasets. airpart outputs discrete partitions of data, pointing to groups of genes and cells under common mechanisms of cis-genetic regulation. In order to account for low counts in single-cell data, our method uses a Generalized Fused Lasso with Binomial likelihood for partitioning groups of cells by AI signal, and a hierarchical Bayesian model for AI statistical inference. In simulation, airpart accurately detected partitions of cell types by their AI and had lower Root Mean Square Error (RMSE) of allelic ratio estimates than existing methods. In real data, airpart identified differential allelic imbalance patterns across cell states and could be used to define trends of AI signal over spatial or time axes.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/35561168/
+    display: Bioinformatics 2022
+  highlight: 1
+
