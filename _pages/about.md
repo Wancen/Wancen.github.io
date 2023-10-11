@@ -29,7 +29,13 @@ My research interests focus on developing efficient statistical learning methods
 <div style="text-align:justify">
 {% assign newsItems = site.data.news | sort: 'date' | reverse %}
 {% for news in newsItems limit:5 %}
-<p>{{ news.date | date: "%Y-%m-%d" }}: {% assign titleParts = news.title | split: '**' %}{{ titleParts[0] }}<strong>{{ titleParts[1] }}</strong>{{ titleParts[2] }}</p>
+    <p>{{ news.date | date: "%Y-%m-%d" }}: 
+    {% assign titleParts = news.title | split: '**' %}
+    {{ titleParts[0] }}<strong>{{ titleParts[1] }}</strong>{{ titleParts[2] }}
+    {% if news.link_url and news.link_text %}
+        <a href="{{ news.link_url }}">{{ news.link_text }}</a>
+    {% endif %}
+    </p>
 {% endfor %}
 </div>
 For more news, please visit the [News](/news/) page.

@@ -1,29 +1,36 @@
-- date: 2023-08-01
-  title: "Ying started her Assistant Professor position at **Brown University**!"
+- date: 2023-09-16
+  title: "**Tidyomics** preprint is posted"
+  link_text: "[doi: 10.1101/2023.09.10.557072]"
+  link_url: "https://doi.org/10.1101/2023.09.10.557072"
 
-- date: 2022-10-08
-  title: "Our paper working on polygenic risk score analysis for common health-related exposures was published on **The American Journal of Human Genetics**!"
+- date: 2023-05-22
+  title: "Wancen started a bioinformatics intern in Genentech. Excited about the intern projects using graph neural network for identifying cells of interest."
 
-- date: 2022-05-18
-  title: "Our collaborative paper on investigating the distributional properties on spatially resolved expression count data was published on **Genome Biology**!"
+- date: 2023-04-29
+  title: "Wancen passed oral preliminary exam!"
 
-- date: 2022-05-02
-  title: "Our method CARD was published on **Nature Biotechnology**!"
+- date: 2023-04-14
+  title: "Wancen's **bootRanges** paper that flexiblely generating null sets of genomic ranges via block bootstrapping was published in "
+  link_text: "Bioinformatics"
+  link_url: "https://doi.org/10.1093/bioinformatics/btad190"
 
-- date: 2021-11-02
-  title: "Our review paper on statistical methods in genetic risk prediction of complex traits was selected as the cover paper in **Trends in Genetics**, with cover art designed by us!"
+- date: 2023-04-14
+  title: "Wancen's collborative paper **matchRanges** on generating null hypothesis genomic ranges via covariate-matched sampling was published in" 
+  link_text: "Bioinformatics"
+  link_url: "https://doi.org/10.1093/bioinformatics/btad197"
 
-- date: 2020-03-27
-  title: "Our method iDEA that performs integrative DE and GSEA analysis was published on **Nature Communications**!"
-  
-- date: 2021-11-01
-  title: "Our review paper on statistical methods in genetic risk prediction of complex traits was published on **Trends in Genetics**!"
+- date: 2022-07-29
+  title: "Wancen and Eric gave a package demo workshop at BioC2022 on 'nullranges: modular workflow for overlap enrichment'"
+  link_text: "Package demo details"
+  link_url: "https://ericscottdavis.com/Bioc2022nullranges/articles/nullranges.html"
 
-- date: 2021-09-16
-  title: "Our collaborative paper on cross-ancestry polygenic risk score analysis was published on **Plos Genetics**!"
+- date: 2022-05-12
+  title: "Wancen started a Statistician intern in AbbVie. Excited about the intern projects imputing biomarker values in early clinical trails."
 
-- date: 2020-11-05
-  title: "Our collaborative paper working on polygenic risk score analysis for 35 common cancer traits was published on **The American Journal of Human Genetics**!"
+- date: 2022-03-18
+  title: "Wancen gave a talk at ENAR about differential allelic imbalance in single-cell RNA-seq data"
 
-- date: 2019-12-10
-  title: "Our collaborative paper benchmarking on 18 different dimensionality reduction methods on 30 publicly available scRNA-seq datasets was published on **Genome Biology**!"
+- date: 2022-05-22
+  title: "Wancen's first paper, on allelic imbalance in scRNA-seq published in"
+  link_text: "Bioinformatics"
+  link_url: "https://doi.org/10.1093/bioinformatics/btac212"
