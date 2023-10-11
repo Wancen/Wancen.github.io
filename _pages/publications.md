@@ -5,6 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+<div class="alert">
+<strong>Note:</strong> For a full list of publications, see 
+<a href="https://scholar.google.com/citations?user=mw7wEcsAAAAJ&hl=en">
+this Google Scholar page</a>.
+The following selected list includes papers and preprints either led by me, or work with relevant software
+contributions.
+</div>
+
 <style>
 .image-margin {
   margin-bottom: 20px;
@@ -20,6 +28,8 @@ author_profile: true
   text-align: justify;
 }
 </style>
+
+
 
 # Publications
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
