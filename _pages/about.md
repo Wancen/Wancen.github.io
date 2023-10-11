@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year PhD student at the department of [Biostatistics]() at University of North Carolina at Chapel Hill supervised by [Michael I Love](https://mikelove.github.io/). My recent research interests focus on developing efficient statistical and machine learning methods to address a variety of biological problems and computational challenges in functional genomics, particularly bulk and single-cell multi-omics data, and pertubation experiments(CRISPRi). 
+I am a fifth year PhD student at the department of [Biostatistics](https://sph.unc.edu/bios/biostatistics/) at University of North Carolina at Chapel Hill supervised by [Michael I Love](https://mikelove.github.io/). My recent research interests focus on developing efficient statistical and machine learning methods to address a variety of biological problems and computational challenges in functional genomics, particularly bulk and single-cell multi-omics data, and pertubation experiments(CRISPRi). 
 
 Research Interests
 ======
