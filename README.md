@@ -1,5 +1,5 @@
 
-# Wancen Mu Personal website
+# Wancen Mu's Personal Website
 
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
